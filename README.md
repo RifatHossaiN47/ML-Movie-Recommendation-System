@@ -2,6 +2,8 @@
 
 A content-based movie recommendation system built with Machine Learning that suggests similar movies based on user selection. The system uses cosine similarity to find movies with similar features like genres, cast, crew, keywords, and overview.
 
+🌐 **Live Demo**: [https://movie-recommendation-rh47.streamlit.app/](https://movie-recommendation-rh47.streamlit.app/)
+
 ## 🌟 Features
 
 - **Content-Based Filtering**: Recommends movies based on content similarity
